@@ -1,0 +1,13 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "debug": "~0.7.2",
+    "gulp-watch": "^4.3.11"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp.spritesmith": "^6.3.0"
+  }
+}
